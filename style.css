@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_div{
+    border: palevioletred 3px ridge;
+}
+.travel_div img{
+    width: 100%;
+    margin-top: 10px;
+}
+.travel_div p{
+    margin:20px;
+}
+.sum_ting_wong{
+    font-size: 24.69px;
+    padding:6px 22px ;
+    border-radius: 24.69px;
+    margin-bottom:15.69px ;
+}
+.sum_ting_wong i{
+    float: right;
+}
+.bang_ding_ow span{
+    color:orangered;
+}
+.book{
+    margin-bottom:20px;
+}
